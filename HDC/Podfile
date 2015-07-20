@@ -1,0 +1,4 @@
+pod 'AVOSCloud'
+pod 'AVOSCloudSNS'
+pod 'MJRefresh'
+pod 'DKFilterView', :git => 'https://github.com/drinking/DKFilterView.git' 
